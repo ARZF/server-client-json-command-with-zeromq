@@ -27,9 +27,9 @@
 1. ابتدا ریپازیتوری را کلون کنید:
    ```bash
    git clone https://github.com/amirfaramarzi76/interview_task.git
-2.سپس سرور را از طریق CMD در پوشه اپ سرور با دستور:
+2.سپس سرور را در پوشه سرور با دستور:
  ```bash
-start python server
+python server.py
 ```
 
 ران کنید
